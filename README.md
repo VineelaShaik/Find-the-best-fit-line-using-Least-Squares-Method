@@ -48,15 +48,15 @@ plt.show()
 ```
 
 ## Output:
-# Input data:
+### Input data:
 ![Alt text](<Screenshot 2024-03-01 100800.png>)<br>
-# Slope:
+### Slope:
 ![Alt text](<Screenshot 2024-03-01 100815.png>)<br>
-# Y-intercept:
+### Y-intercept:
 ![Alt text](<Screenshot 2024-03-01 100825.png>)<br>
-# Predicted y values:
+### Predicted y values:
 ![Alt text](<Screenshot 2024-03-01 100836.png>)<br>
-# Best-fit-line:
+### Best-fit-line:
 ![Alt text](<Screenshot 2024-03-01 100851.png>)
 
 ## Result:
