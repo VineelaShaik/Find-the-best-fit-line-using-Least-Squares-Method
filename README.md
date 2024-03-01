@@ -48,7 +48,16 @@ plt.show()
 ```
 
 ## Output:
-![best fit line](best-fit-line.png)
+#Input data
+![Alt text](<Screenshot 2024-03-01 100800.png>)
+#Slope
+![Alt text](<Screenshot 2024-03-01 100815.png>)
+#Y-intercept
+![Alt text](<Screenshot 2024-03-01 100825.png>)
+#Predicted y values
+![Alt text](<Screenshot 2024-03-01 100836.png>)
+#Best-fit-line
+![Alt text](<Screenshot 2024-03-01 100851.png>)
 
 ## Result:
 Thus the univariate Linear Regression was implemented to fit a straight line using least squares using python programming.
